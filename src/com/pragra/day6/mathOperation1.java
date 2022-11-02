@@ -4,7 +4,7 @@ public class mathOperation1 {
     public static void main(String[] args) {
 
        fibonacci(0,1,7);
-
+        factorial(5,1);
     }
 
 
@@ -22,12 +22,14 @@ public class mathOperation1 {
         }
         return n;
     }
-    public static int factorial(int fac){
-        int n;
-        for(int i=1;i<=5;i++){
-            fac=
+    public static int factorial(int fac,int i){
+            int n=1;
+        for( i=1;i<fac;i++){
+            n=i*n;
+            System.out.println("the factorial of a number is "+n);
         }
-        return fac;
+        return n;
+
     }
 
 }
