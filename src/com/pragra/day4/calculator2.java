@@ -14,6 +14,7 @@ public class calculator2 {
         System.out.println("subtraction of two number: " + sub(a, b));
         System.out.println("multiplication of two number: " + multi(a, b));
         System.out.println("division of two number: "+div(a,b));
+        System.out.println("average of two number: "+avg(a,b));
     }
 
     public static int sum(int a, int b) {
@@ -28,4 +29,6 @@ public class calculator2 {
     public static double div(double a, double b) {
         return a/b;
     }
+
+    public static double avg(double a, double b){return ((a+b)/2);}
 }

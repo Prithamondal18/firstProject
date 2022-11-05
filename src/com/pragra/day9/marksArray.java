@@ -13,5 +13,6 @@ public class marksArray {
         System.out.println(sum);
         System.out.println("averge: "+sum/marks.length);
 
+
     }
 }
