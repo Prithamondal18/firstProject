@@ -11,11 +11,7 @@ public class ArrayDemo {
         arr[3]=10;
         arr[4]=10;
 
-        for(int i=0;i<=4;i++){                  //i=0 bcz arr is 0, bcz array index always start with 0
 
-            arr[i]=10;
-
-        }
 
         for(int i=0;i<=4;i++){                  //i=0 bcz arr is 0, bcz array index always start with 0
 
