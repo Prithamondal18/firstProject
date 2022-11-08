@@ -9,6 +9,7 @@ public class Main {
             System.out.println("Largest Number is " + b);
         } else {
             System.out.println("Largest Number is " + c);
+            System.out.println("Largest Number is " + c);
         }
     }
 }
