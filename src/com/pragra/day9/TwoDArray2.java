@@ -16,7 +16,7 @@ public class TwoDArray2 {
                 System.out.println("Total sum of " + i + " coloum is " + sum);
                 System.out.println("Average of " + i + " coloum is " + (sum / marks.length));
                 System.out.println("-----------------------------------------------");
-                System.out.println("vivel changes");
+                System.out.println("vivek changes");
             }
 
         }
