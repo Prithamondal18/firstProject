@@ -14,6 +14,7 @@ public class factorial {
             System.out.print("Factorial of a number: " +i);
             System.out.println("aduohifksdgyf");
             System.out.println("higet init");
+            System.out.println("hi");
         }
 }
 
