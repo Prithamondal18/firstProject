@@ -12,6 +12,7 @@ public class day4 {
         System.out.println("jump 10 times");
         System.out.println("jump 20 times");
         System.out.println("jump 40 times");
+        System.out.println("dluf");
 
     }
 
